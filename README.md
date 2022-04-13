@@ -13,7 +13,7 @@
 > - Matplot Library
 > 
 > Open CV
-> - 아직..
+> - 책 예제 따라가기
 > 
 > TensorFlow
 > - 아직..
