@@ -11,7 +11,7 @@ int main()
               3, 3, 5);
     Matx31d B(-1, 0, 4);
 
-    Matx31d R1 = A.solve(B);
+    Matx31d R1 = A.solve(B);    //각 행의 연립방정식 계산
     Mat R2;
     solve((Mat)A, (Mat)B, R2);
 
