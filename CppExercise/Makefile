@@ -128,29 +128,29 @@ CppExercise/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/build
 .PHONY : CppExercise/fast
 
-2-6_RotatedRect.obj: 2-6_RotatedRect.cpp.obj
-.PHONY : 2-6_RotatedRect.obj
+2-12_Matx5.obj: 2-12_Matx5.cpp.obj
+.PHONY : 2-12_Matx5.obj
 
 # target to build an object file
-2-6_RotatedRect.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-6_RotatedRect.cpp.obj
-.PHONY : 2-6_RotatedRect.cpp.obj
+2-12_Matx5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj
+.PHONY : 2-12_Matx5.cpp.obj
 
-2-6_RotatedRect.i: 2-6_RotatedRect.cpp.i
-.PHONY : 2-6_RotatedRect.i
+2-12_Matx5.i: 2-12_Matx5.cpp.i
+.PHONY : 2-12_Matx5.i
 
 # target to preprocess a source file
-2-6_RotatedRect.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-6_RotatedRect.cpp.i
-.PHONY : 2-6_RotatedRect.cpp.i
+2-12_Matx5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.i
+.PHONY : 2-12_Matx5.cpp.i
 
-2-6_RotatedRect.s: 2-6_RotatedRect.cpp.s
-.PHONY : 2-6_RotatedRect.s
+2-12_Matx5.s: 2-12_Matx5.cpp.s
+.PHONY : 2-12_Matx5.s
 
 # target to generate assembly for a file
-2-6_RotatedRect.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-6_RotatedRect.cpp.s
-.PHONY : 2-6_RotatedRect.cpp.s
+2-12_Matx5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.s
+.PHONY : 2-12_Matx5.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CppExercise
-	@echo ... 2-6_RotatedRect.obj
-	@echo ... 2-6_RotatedRect.i
-	@echo ... 2-6_RotatedRect.s
+	@echo ... 2-12_Matx5.obj
+	@echo ... 2-12_Matx5.i
+	@echo ... 2-12_Matx5.s
 .PHONY : help
 
 

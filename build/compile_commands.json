@@ -1,7 +1,12 @@
 [
 {
   "directory": "V:/Repo/OpenCV_Git/TIL_OpenCV/build",
-  "command": "V:\\MinGW\\bin\\g++.exe  @CMakeFiles/CppExercise.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CppExercise.dir\\2-6_RotatedRect.cpp.obj -c V:\\Repo\\OpenCV_Git\\TIL_OpenCV\\CppExercise\\2-6_RotatedRect.cpp",
-  "file": "V:/Repo/OpenCV_Git/TIL_OpenCV/CppExercise/2-6_RotatedRect.cpp"
+  "command": "V:\\MinGW\\bin\\g++.exe  @CMakeFiles/CppExercise.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CppExercise.dir\\2-12_Matx5.cpp.obj -c V:\\Repo\\OpenCV_Git\\TIL_OpenCV\\CppExercise\\2-12_Matx5.cpp",
+  "file": "V:/Repo/OpenCV_Git/TIL_OpenCV/CppExercise/2-12_Matx5.cpp"
+},
+{
+  "directory": "V:/Repo/OpenCV_Git/TIL_OpenCV/build",
+  "command": "V:\\MinGW\\bin\\g++.exe  @CMakeFiles/CppExercise.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\CppExercise.dir\\2-13_Vec.cpp.obj -c V:\\Repo\\OpenCV_Git\\TIL_OpenCV\\CppExercise\\2-13_Vec.cpp",
+  "file": "V:/Repo/OpenCV_Git/TIL_OpenCV/CppExercise/2-13_Vec.cpp"
 }
 ]

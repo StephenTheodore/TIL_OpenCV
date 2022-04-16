@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CppExercise.dir/2-6_RotatedRect.cpp.obj"
-  "CMakeFiles/CppExercise.dir/2-6_RotatedRect.cpp.obj.d"
+  "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj"
+  "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj.d"
   "CppExercise.exe"
   "CppExercise.exe.manifest"
   "CppExercise.pdb"
