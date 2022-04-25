@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "V:/Repo/OpenCV_Git/TIL_OpenCV/CppExercise/2-12_Matx5.cpp" "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj" "gcc" "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj.d"
+  "V:/Repo/OpenCV_Git/TIL_OpenCV/CppExercise/2-2-5_Ptr.cpp" "CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.obj" "gcc" "CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.obj.d"
   )
 
 # Targets to which this target links.

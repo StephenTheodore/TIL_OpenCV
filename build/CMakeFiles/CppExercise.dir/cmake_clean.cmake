@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj"
-  "CMakeFiles/CppExercise.dir/2-12_Matx5.cpp.obj.d"
-  "CMakeFiles/CppExercise.dir/2-13_Vec.cpp.obj"
-  "CMakeFiles/CppExercise.dir/2-13_Vec.cpp.obj.d"
+  "CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.obj"
+  "CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.obj.d"
   "CppExercise.exe"
   "CppExercise.exe.manifest"
   "CppExercise.pdb"

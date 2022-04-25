@@ -80,12 +80,12 @@ clean: CMakeFiles/CppExercise.dir/clean
 CMakeFiles/CppExercise.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=V:\Repo\OpenCV_Git\TIL_OpenCV\build\CMakeFiles --progress-num=1,2,3 "Built target CppExercise"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=V:\Repo\OpenCV_Git\TIL_OpenCV\build\CMakeFiles --progress-num=1,2 "Built target CppExercise"
 .PHONY : CMakeFiles/CppExercise.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppExercise.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start V:\Repo\OpenCV_Git\TIL_OpenCV\build\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start V:\Repo\OpenCV_Git\TIL_OpenCV\build\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CppExercise.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start V:\Repo\OpenCV_Git\TIL_OpenCV\build\CMakeFiles 0
 .PHONY : CMakeFiles/CppExercise.dir/rule
