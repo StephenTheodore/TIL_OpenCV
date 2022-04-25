@@ -128,29 +128,29 @@ CppExercise/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/build
 .PHONY : CppExercise/fast
 
-2-2-5_Ptr.obj: 2-2-5_Ptr.cpp.obj
-.PHONY : 2-2-5_Ptr.obj
+2-3-1_Mat.obj: 2-3-1_Mat.cpp.obj
+.PHONY : 2-3-1_Mat.obj
 
 # target to build an object file
-2-2-5_Ptr.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.obj
-.PHONY : 2-2-5_Ptr.cpp.obj
+2-3-1_Mat.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-3-1_Mat.cpp.obj
+.PHONY : 2-3-1_Mat.cpp.obj
 
-2-2-5_Ptr.i: 2-2-5_Ptr.cpp.i
-.PHONY : 2-2-5_Ptr.i
+2-3-1_Mat.i: 2-3-1_Mat.cpp.i
+.PHONY : 2-3-1_Mat.i
 
 # target to preprocess a source file
-2-2-5_Ptr.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.i
-.PHONY : 2-2-5_Ptr.cpp.i
+2-3-1_Mat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-3-1_Mat.cpp.i
+.PHONY : 2-3-1_Mat.cpp.i
 
-2-2-5_Ptr.s: 2-2-5_Ptr.cpp.s
-.PHONY : 2-2-5_Ptr.s
+2-3-1_Mat.s: 2-3-1_Mat.cpp.s
+.PHONY : 2-3-1_Mat.s
 
 # target to generate assembly for a file
-2-2-5_Ptr.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-2-5_Ptr.cpp.s
-.PHONY : 2-2-5_Ptr.cpp.s
+2-3-1_Mat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CppExercise.dir\build.make CMakeFiles/CppExercise.dir/2-3-1_Mat.cpp.s
+.PHONY : 2-3-1_Mat.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CppExercise
-	@echo ... 2-2-5_Ptr.obj
-	@echo ... 2-2-5_Ptr.i
-	@echo ... 2-2-5_Ptr.s
+	@echo ... 2-3-1_Mat.obj
+	@echo ... 2-3-1_Mat.i
+	@echo ... 2-3-1_Mat.s
 .PHONY : help
 
 
